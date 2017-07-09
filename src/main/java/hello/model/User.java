@@ -10,15 +10,7 @@ public class User {
 
     private String username = "Наташа";
     private String password = "111";
-    private String xxx = new Date().toString();
 
-    public String getXxx() {
-        return xxx;
-    }
-
-    public void setXxx(String xxx) {
-        this.xxx = xxx;
-    }
 
     public String getUsername() {
         return username;
